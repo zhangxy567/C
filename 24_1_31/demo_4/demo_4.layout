@@ -3,10 +3,9 @@
         "caretX": 1,
         "caretY": 11,
         "filename": "C:/CodeBase/C/24_1_31/demo_4/main.c",
-        "focused": true,
-        "isOpen": true,
+        "focused": false,
+        "isOpen": false,
         "leftChar": 1,
-        "order": 0,
         "topLine": 1
     }
 ]
