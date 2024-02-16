@@ -1,0 +1,3 @@
+C:\Code_Project\C\2023.11.22\Project1\x64\Debug\Project1.exe
+C:\Code_Project\C\2023.11.22\Project1\x64\Debug\Project1.exe.lastcodeanalysissucceeded
+C:\Code_Project\C\2023.11.22\Project1\x64\Debug\NativeCodeAnalysis.read.1.tlog

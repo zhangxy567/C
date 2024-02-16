@@ -1,0 +1,3 @@
+C:/Code_Project/C/2023.11.17/cmake-build-debug/CMakeFiles/2023_11_17.dir
+C:/Code_Project/C/2023.11.17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code_Project/C/2023.11.17/cmake-build-debug/CMakeFiles/rebuild_cache.dir

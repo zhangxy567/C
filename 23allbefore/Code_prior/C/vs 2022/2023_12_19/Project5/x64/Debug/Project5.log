@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Code_Project\C\2023_12_19\Project5\源.cpp(10,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project5.vcxproj -> C:\Code_Project\C\2023_12_19\Project5\x64\Debug\Project5.exe

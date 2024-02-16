@@ -1,0 +1,9 @@
+﻿  源.c
+C:\Code_Project\C\2023_12_20\Project7\源.c(12,16): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Code_Project\C\2023_12_20\Project7\源.c(12,43): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+C:\Code_Project\C\2023_12_20\Project7\源.c(16,3): warning C4013: “exit”未定义；假设外部返回 int
+C:\Code_Project\C\2023_12_20\Project7\源.c(31,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Code_Project\C\2023_12_20\Project7\源.c(32,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Code_Project\C\2023_12_20\Project7\源.c(36,14): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Code_Project\C\2023_12_20\Project7\源.c(36,14): warning C4024: “strcpy”: 形参和实参 2 的类型不同
+  Project7.vcxproj -> C:\Code_Project\C\2023_12_20\Project7\x64\Debug\Project7.exe

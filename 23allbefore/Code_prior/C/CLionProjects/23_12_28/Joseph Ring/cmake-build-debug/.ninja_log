@@ -1,0 +1,15 @@
+# ninja log v5
+0	228	7254777813593019	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+228	448	7254777815775292	Joseph_Ring.exe	5dadb9d8d37f298e
+1	65	7254778226491102	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+65	143	7254778227246238	Joseph_Ring.exe	5dadb9d8d37f298e
+2	62	7254779311141146	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+63	142	7254779311895342	Joseph_Ring.exe	5dadb9d8d37f298e
+1	444	7256282788478443	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+444	664	7256282790648995	Joseph_Ring.exe	5dadb9d8d37f298e
+1	299	7258675148879342	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+299	588	7258675151746815	Joseph_Ring.exe	5dadb9d8d37f298e
+1	357	7258996359964361	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+357	587	7258996362241387	Joseph_Ring.exe	5dadb9d8d37f298e
+2	96	7258997154814334	CMakeFiles/Joseph_Ring.dir/main.c.obj	526b6eccbe791a8b
+96	174	7258997155584325	Joseph_Ring.exe	5dadb9d8d37f298e

@@ -1,0 +1,7 @@
+C:/Code_Project/ModelSim/demo_data/test_data_selector.v {1 {vlog -work work -vopt -stats=none C:/Code_Project/ModelSim/demo_data/test_data_selector.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+
+} {} {}} C:/Code_Project/ModelSim/demo_data/data_selector_8to1.v {1 {vlog -work work -vopt -stats=none C:/Code_Project/ModelSim/demo_data/data_selector_8to1.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+
+} {} {}}

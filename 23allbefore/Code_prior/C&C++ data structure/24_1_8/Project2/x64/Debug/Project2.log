@@ -1,0 +1,70 @@
+﻿  源.cpp
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(53,18): error C2679: 二元“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  可能是“OLNode &OLNode::operator =(OLNode &&)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  或    “OLNode &OLNode::operator =(const OLNode &)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(53,18):
+  尝试匹配参数列表“(OLNode, int)”时
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(57,18): error C2679: 二元“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  可能是“OLNode &OLNode::operator =(OLNode &&)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  或    “OLNode &OLNode::operator =(const OLNode &)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(57,18):
+  尝试匹配参数列表“(OLNode, int)”时
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(69,18): error C2677: 二进制“==”: 没有找到接受“OLNode”类型的全局运算符(或没有可接受的转换)
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(69,44): error C2819: “OLNode”类型没有重载成员“operator ->”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(6,16):
+  参见“OLNode”的声明
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(69,44):
+  是否改用“.”?
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(69,45): error C2232: “->OLNode::j”: 左操作数有“struct”类型，使用“.”
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(71,33): error C2440: “=”: 无法从“OLNode”转换为“OLNode *”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(71,33):
+  没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(72,22): error C2679: 二元“=”: 没有找到接受“OLNode *”类型的右操作数的运算符(或没有可接受的转换)
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  可能是“OLNode &OLNode::operator =(OLNode &&)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  或    “OLNode &OLNode::operator =(const OLNode &)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(72,22):
+  尝试匹配参数列表“(OLNode, OLNode *)”时
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(76,31): error C2440: “=”: 无法从“OLNode”转换为“OLNode *”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(76,31):
+  没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(81,18): error C2677: 二进制“==”: 没有找到接受“OLNode”类型的全局运算符(或没有可接受的转换)
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(81,44): error C2819: “OLNode”类型没有重载成员“operator ->”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(6,16):
+  参见“OLNode”的声明
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(81,44):
+  是否改用“.”?
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(81,45): error C2232: “->OLNode::i”: 左操作数有“struct”类型，使用“.”
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(83,32): error C2440: “=”: 无法从“OLNode”转换为“OLNode *”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(83,32):
+  没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(84,22): error C2679: 二元“=”: 没有找到接受“OLNode *”类型的右操作数的运算符(或没有可接受的转换)
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  可能是“OLNode &OLNode::operator =(OLNode &&)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(10,1):
+  或    “OLNode &OLNode::operator =(const OLNode &)”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(84,22):
+  尝试匹配参数列表“(OLNode, OLNode *)”时
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(88,31): error C2440: “=”: 无法从“OLNode”转换为“OLNode *”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(88,31):
+  没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(98,18): error C2677: 二进制“!=”: 没有找到接受“OLNode”类型的全局运算符(或没有可接受的转换)
+C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(100,21): error C2440: “初始化”: 无法从“OLNode”转换为“OLink”
+  C:\Code_Project\C&C++ data structure\24_1_8\Project2\源.cpp(100,21):
+  没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  

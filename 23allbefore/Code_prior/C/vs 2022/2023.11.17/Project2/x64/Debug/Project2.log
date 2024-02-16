@@ -1,0 +1,23 @@
+﻿  BinaryTreeNode.c
+  main.c
+  正在生成代码...
+main.obj : error LNK2005: main 已经在 BinaryTreeNode.obj 中定义
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 CreatBinaryTree，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 CreatBinaryTree
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 PreOrder，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 PreOrder
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 InOrder，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 InOrder
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 PostOrder，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 PostOrder
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 BinaryTreeSize，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 BinaryTreeSize
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 BinaryTreeLeafSize，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 BinaryTreeLeafSize
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 BinaryTreeLevelKSize，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 BinaryTreeLevelKSize
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 Depth，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 Depth
+BinaryTreeNode.obj : error LNK2019: 无法解析的外部符号 BinaryTreeDestory，函数 main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 BinaryTreeDestory
+C:\Code_Project\C\2023.11.17\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 9 个无法解析的外部命令

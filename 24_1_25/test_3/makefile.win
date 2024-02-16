@@ -1,0 +1,38 @@
+# Project: test_3
+# Makefile created by Red Panda C++ 2.25.1
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+RES      = test_3_private.res
+OBJ      = yuan.o main.o $(RES)
+LINKOBJ  = yuan.o main.o test_3_private.res
+CLEANOBJ  =  yuan.o main.o  test_3_private.res test_3.exe
+LIBS     =  -mwindows
+INCS     =  
+CXXINCS  =  
+BIN      = test_3.exe
+CXXFLAGS = $(CXXINCS)  -g3 -pipe -Wall -D__DEBUG__
+CFLAGS   = $(INCS)  -g3 -pipe -Wall -D__DEBUG__
+RM       = del /q /f
+WINDRESFLAGS  = 
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	-$(RM) $(CLEANOBJ) > NUL 2>&1
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+yuan.o: yuan.c
+	$(CC) -c yuan.c -o yuan.o $(CFLAGS) 
+
+main.o: main.c
+	$(CC) -c main.c -o main.o $(CFLAGS)  -finput-charset=UTF-8 -fexec-charset=gbk
+
+test_3_private.res: test_3_private.rc 
+	$(WINDRES) -i test_3_private.rc --input-format=rc -o test_3_private.res -O coff $(WINDRESFLAGS) 
+

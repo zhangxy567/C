@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Code_Project\C\2023_12_11\Project2\源.cpp(12,6): warning C4101: “i”: 未引用的局部变量
+C:\Code_Project\C\2023_12_11\Project2\源.cpp(12,9): warning C4101: “n”: 未引用的局部变量
+  Project2.vcxproj -> C:\Code_Project\C\2023_12_11\Project2\x64\Debug\Project2.exe

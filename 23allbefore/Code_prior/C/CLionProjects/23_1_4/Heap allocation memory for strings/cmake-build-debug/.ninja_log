@@ -1,0 +1,9 @@
+# ninja log v5
+1	300	7261239507702007	CMakeFiles/Heap_allocation_memory_for_strings.dir/main.c.obj	9d7df745e117a4ae
+301	494	7261239509614243	Heap_allocation_memory_for_strings.exe	c6c6b168e00bfdc0
+2	67	7261240005410938	CMakeFiles/Heap_allocation_memory_for_strings.dir/main.c.obj	9d7df745e117a4ae
+68	140	7261240006124585	Heap_allocation_memory_for_strings.exe	c6c6b168e00bfdc0
+2	84	7261241390176310	CMakeFiles/Heap_allocation_memory_for_strings.dir/main.c.obj	9d7df745e117a4ae
+85	158	7261241390891376	Heap_allocation_memory_for_strings.exe	c6c6b168e00bfdc0
+1	68	7261243814530884	CMakeFiles/Heap_allocation_memory_for_strings.dir/main.c.obj	9d7df745e117a4ae
+68	136	7261243815185557	Heap_allocation_memory_for_strings.exe	c6c6b168e00bfdc0

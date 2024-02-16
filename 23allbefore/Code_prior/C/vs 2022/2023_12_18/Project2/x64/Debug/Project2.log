@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Code_Project\C\2023_12_18\Project2\源.cpp(18,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Code_Project\C\2023_12_18\Project2\源.cpp(21,23): error C2065: “a”: 未声明的标识符
+C:\Code_Project\C\2023_12_18\Project2\源.cpp(21,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  C:\Code_Project\C\2023_12_18\Project2\源.cpp(21,10):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Code_Project\C\2023_12_18\Project2\源.cpp(21,10):
+  缺失的可变参数 2 为格式字符串“%d”所需
+  
+C:\Code_Project\C\2023_12_18\Project2\源.cpp(22,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)

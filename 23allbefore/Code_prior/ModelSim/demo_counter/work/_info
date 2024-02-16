@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/modeltech64_10.5/examples
+T_opt
+!s110 1698714206
+Vn4L8LSGco2Af76BW4@<5@0
+04 10 4 work counter_tb fast 0
+=1-6c2408b7e2c6-6540525e-3d-473c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+vcounter
+Z2 !s110 1698715132
+!i10b 1
+!s100 L9Hg@Sb7I1FSf76kf>Rni3
+IL@GD^SOFYSFRno>;oB[<L2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/Code_Project/ModelSim/demo_counter
+w1698714172
+8C:/Code_Project/ModelSim/demo_counter/counter.v
+FC:/Code_Project/ModelSim/demo_counter/counter.v
+L0 1
+Z5 OL;L;10.5;63
+r1
+!s85 0
+31
+Z6 !s108 1698715132.000000
+!s107 C:/Code_Project/ModelSim/demo_counter/counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Code_Project/ModelSim/demo_counter/counter.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vcounter_tb
+R2
+!i10b 1
+!s100 RlfQ_>[FZn?]m1Zmo_o2m2
+IH6AOE232DD4RPCZ2oD;^h0
+R3
+R4
+w1698714193
+8C:/Code_Project/ModelSim/demo_counter/counter_tb.v
+FC:/Code_Project/ModelSim/demo_counter/counter_tb.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Code_Project/ModelSim/demo_counter/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Code_Project/ModelSim/demo_counter/counter_tb.v|
+!i113 0
+R7
+R1

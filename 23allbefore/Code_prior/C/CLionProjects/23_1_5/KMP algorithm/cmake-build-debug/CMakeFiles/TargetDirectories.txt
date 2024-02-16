@@ -1,0 +1,3 @@
+C:/Code_Project/C/CLionProjects/23_1_5/KMP algorithm/cmake-build-debug/CMakeFiles/KMP_algorithm.dir
+C:/Code_Project/C/CLionProjects/23_1_5/KMP algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code_Project/C/CLionProjects/23_1_5/KMP algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

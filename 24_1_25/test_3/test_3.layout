@@ -1,0 +1,20 @@
+[
+    {
+        "caretX": 2,
+        "caretY": 7,
+        "filename": "C:/CodeBase/C/24_1_25/test_3/yuan.c",
+        "focused": false,
+        "isOpen": false,
+        "leftChar": 1,
+        "topLine": 1
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/CodeBase/C/24_1_25/test_3/main.c",
+        "focused": false,
+        "isOpen": false,
+        "leftChar": 1,
+        "topLine": 1
+    }
+]

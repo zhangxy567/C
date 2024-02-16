@@ -1,0 +1,5 @@
+# ninja log v5
+1	66	7259886256742381	CMakeFiles/sequential_queue.dir/main.c.obj	648efefdb80cf325
+68	142	7259886257466222	sequential_queue.exe	35dbb0320e62702d
+2	66	7259886335114255	CMakeFiles/sequential_queue.dir/main.c.obj	648efefdb80cf325
+67	140	7259886335819812	sequential_queue.exe	35dbb0320e62702d

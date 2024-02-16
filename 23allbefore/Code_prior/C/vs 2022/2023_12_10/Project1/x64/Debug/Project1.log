@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Code_Project\C\2023_12_10\Project1\源.cpp(5,2): error C2065: “cout”: 未声明的标识符
+C:\Code_Project\C\2023_12_10\Project1\源.cpp(7,2): error C2561: “main”: 函数必须返回值
+C:\Code_Project\C\2023_12_10\Project1\源.cpp(3,5): message : 参见“main”的声明

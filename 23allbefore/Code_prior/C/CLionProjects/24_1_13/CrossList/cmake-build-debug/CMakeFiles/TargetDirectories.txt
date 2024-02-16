@@ -1,0 +1,3 @@
+C:/CodeBase/C/23allbefore/Code_prior/C/CLionProjects/24_1_13/CrossList/cmake-build-debug/CMakeFiles/CrossList.dir
+C:/CodeBase/C/23allbefore/Code_prior/C/CLionProjects/24_1_13/CrossList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeBase/C/23allbefore/Code_prior/C/CLionProjects/24_1_13/CrossList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

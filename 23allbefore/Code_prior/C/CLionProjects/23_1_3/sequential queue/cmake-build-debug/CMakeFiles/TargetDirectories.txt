@@ -1,0 +1,3 @@
+C:/Code_Project/C/CLionProjects/23_1_3/sequential queue/cmake-build-debug/CMakeFiles/sequential_queue.dir
+C:/Code_Project/C/CLionProjects/23_1_3/sequential queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code_Project/C/CLionProjects/23_1_3/sequential queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

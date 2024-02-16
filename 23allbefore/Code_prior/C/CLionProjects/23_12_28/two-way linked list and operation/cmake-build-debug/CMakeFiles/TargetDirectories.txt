@@ -1,0 +1,3 @@
+C:/Code_Project/C/CLionProjects/23_12_26/two-way linked list/cmake-build-debug/CMakeFiles/two_way_linked_list.dir
+C:/Code_Project/C/CLionProjects/23_12_26/two-way linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code_Project/C/CLionProjects/23_12_26/two-way linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

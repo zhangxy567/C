@@ -1,0 +1,8 @@
+﻿  源.c
+C:\Code_Project\C\2023_12_20\Project5\源.c(14,2): warning C4047: “return”:“char”与“char [80]”的间接级别不同
+C:\Code_Project\C\2023_12_20\Project5\源.c(22,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Code_Project\C\2023_12_20\Project5\源.c(23,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Code_Project\C\2023_12_20\Project5\源.c(26,14): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Code_Project\C\2023_12_20\Project5\源.c(26,14): warning C4024: “strcpy”: 形参和实参 2 的类型不同
+C:\Code_Project\C\2023_12_20\Project5\源.c(14): warning C4172: 返回局部变量或临时变量的地址: a
+  Project5.vcxproj -> C:\Code_Project\C\2023_12_20\Project5\x64\Debug\Project5.exe

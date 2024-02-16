@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Heap_allocation_memory_for_strings",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Heap_allocation_memory_for_strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Heap_allocation_memory_for_strings-Debug-0e086a615792ff15b7f1.json",
+					"name" : "Heap_allocation_memory_for_strings",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Code_Project/C/CLionProjects/23_1_4/Heap allocation memory for strings/cmake-build-debug",
+		"source" : "C:/Code_Project/C/CLionProjects/23_1_4/Heap allocation memory for strings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

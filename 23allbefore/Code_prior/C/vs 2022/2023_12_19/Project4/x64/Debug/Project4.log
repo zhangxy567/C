@@ -1,0 +1,30 @@
+﻿  源.cpp
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(8,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(8,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(8,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“double *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(8,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "double *" 的参数 2 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(8,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(8,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "char *" 的参数 3 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(9,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(9,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(9,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“double *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(9,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "double *" 的参数 2 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(9,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(9,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "char *" 的参数 3 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(12,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(12,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(12,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“double *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(12,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "double *" 的参数 2 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(12,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(12,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "char *" 的参数 3 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(15,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(15,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(15,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“double *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(15,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "double *" 的参数 2 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(15,12): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(15,12): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "char *" 的参数 3 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(18,16): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(18,16): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(21,16): warning C4477: “printf”: 格式字符串“%#X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Code_Project\C\2023_12_19\Project4\源.cpp(21,16): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+  Project4.vcxproj -> C:\Code_Project\C\2023_12_19\Project4\x64\Debug\Project4.exe

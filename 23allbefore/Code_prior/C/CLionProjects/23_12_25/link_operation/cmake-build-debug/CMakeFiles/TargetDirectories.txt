@@ -1,0 +1,3 @@
+C:/Code_Project/C/CLionProjects/23_12_25/link_operation/cmake-build-debug/CMakeFiles/untitled5.dir
+C:/Code_Project/C/CLionProjects/23_12_25/link_operation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code_Project/C/CLionProjects/23_12_25/link_operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

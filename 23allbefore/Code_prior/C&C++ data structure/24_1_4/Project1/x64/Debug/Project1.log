@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Code_Project\C&C++ data structure\24_1_4\Project1\源.cpp(11,18): error C2117: “str1”: 数组界限溢出
+  C:\Code_Project\C&C++ data structure\24_1_4\Project1\源.cpp(11,7):
+  参见“str1”的声明
+  

@@ -1,0 +1,13 @@
+# ninja log v5
+1	62	7261580206556282	CMakeFiles/BF_algorithm.dir/main.c.obj	30e0bc4621fb25e2
+62	132	7261580207223919	BF_algorithm.exe	9978eedbc0b4eaab
+1	74	7261587164513553	CMakeFiles/BF_algorithm.dir/main.c.obj	30e0bc4621fb25e2
+74	146	7261587165209430	BF_algorithm.exe	9978eedbc0b4eaab
+1	58	7261587507633054	CMakeFiles/BF_algorithm.dir/main.c.obj	30e0bc4621fb25e2
+58	126	7261587508284273	BF_algorithm.exe	9978eedbc0b4eaab
+1	66	7261588106670828	CMakeFiles/BF_algorithm.dir/main.c.obj	30e0bc4621fb25e2
+66	136	7261588107344168	BF_algorithm.exe	9978eedbc0b4eaab
+1	76	7261589084375958	CMakeFiles/BF_algorithm.dir/main.c.obj	30e0bc4621fb25e2
+76	149	7261589085077295	BF_algorithm.exe	9978eedbc0b4eaab
+1	67	7261589225988226	CMakeFiles/BF_algorithm.dir/main.c.obj	30e0bc4621fb25e2
+67	137	7261589226659965	BF_algorithm.exe	9978eedbc0b4eaab

@@ -1,0 +1,9 @@
+﻿  源.c
+C:\Code_Project\C\2023_12_20\Project4\源.c(14,5): warning C4047: “=”:“char”与“char *”的间接级别不同
+C:\Code_Project\C\2023_12_20\Project4\源.c(15,2): warning C4047: “return”:“char *”与“char”的间接级别不同
+C:\Code_Project\C\2023_12_20\Project4\源.c(24,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Code_Project\C\2023_12_20\Project4\源.c(25,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Code_Project\C\2023_12_20\Project4\源.c(27,14): warning C4047: “函数”:“char”与“char *”的间接级别不同
+C:\Code_Project\C\2023_12_20\Project4\源.c(27,14): warning C4024: “exchange”: 形参和实参 1 的类型不同
+C:\Code_Project\C\2023_12_20\Project4\源.c(22,13): warning C4101: “b”: 未引用的局部变量
+  Project4.vcxproj -> C:\Code_Project\C\2023_12_20\Project4\x64\Debug\Project4.exe

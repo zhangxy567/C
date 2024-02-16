@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Code_Project\C\2023_12_20\Project2\源.cpp(10,8): error C2440: “=”: 无法从“const char [23]”转换为“char *”
+  C:\Code_Project\C\2023_12_20\Project2\源.cpp(10,8):
+  从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+  
+C:\Code_Project\C\2023_12_20\Project2\源.cpp(11,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据

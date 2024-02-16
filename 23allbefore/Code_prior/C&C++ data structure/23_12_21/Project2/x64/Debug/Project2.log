@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Code_Project\C&C++ data structure\23_12_21\Project2\源.cpp(9): warning C4172: 返回局部变量或临时变量的地址: n
+  Project2.vcxproj -> C:\Code_Project\C&C++ data structure\23_12_21\Project2\x64\Debug\Project2.exe

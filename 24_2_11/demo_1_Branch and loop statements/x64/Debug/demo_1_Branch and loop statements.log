@@ -1,0 +1,2 @@
+﻿  源.cpp
+C:\CodeBase\C\24_2_11\demo_1_Branch and loop statements\源.cpp(158): error C4700: 使用了未初始化的局部变量“flag”

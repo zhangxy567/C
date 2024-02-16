@@ -1,0 +1,9 @@
+# ninja log v5
+0	63	7260323727729147	CMakeFiles/Chain_queue.dir/main.c.obj	34dbeed6f570dbe8
+63	143	7260323728510254	Chain_queue.exe	2848b214cdbd2b71
+1	58	7260323868260864	CMakeFiles/Chain_queue.dir/main.c.obj	34dbeed6f570dbe8
+59	128	7260323868925708	Chain_queue.exe	2848b214cdbd2b71
+1	85	7260330778218827	CMakeFiles/Chain_queue.dir/main.c.obj	34dbeed6f570dbe8
+85	156	7260330778909303	Chain_queue.exe	2848b214cdbd2b71
+1	65	7260330884241096	CMakeFiles/Chain_queue.dir/main.c.obj	34dbeed6f570dbe8
+66	140	7260330884949419	Chain_queue.exe	2848b214cdbd2b71

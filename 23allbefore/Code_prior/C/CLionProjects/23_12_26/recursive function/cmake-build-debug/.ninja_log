@@ -1,0 +1,9 @@
+# ninja log v5
+1	64	7252963729228591	CMakeFiles/recursive_function.dir/main.c.obj	ef6361167d10622d
+66	144	7252963730008672	recursive_function.exe	6f3e67d816599491
+2	78	7252964352889560	CMakeFiles/recursive_function.dir/main.c.obj	ef6361167d10622d
+78	159	7252964353680100	recursive_function.exe	6f3e67d816599491
+2	92	7253000395865581	CMakeFiles/recursive_function.dir/main.c.obj	ef6361167d10622d
+92	179	7253000396717061	recursive_function.exe	6f3e67d816599491
+2	67	7253000963224279	CMakeFiles/recursive_function.dir/main.c.obj	ef6361167d10622d
+67	139	7253000963927637	recursive_function.exe	6f3e67d816599491

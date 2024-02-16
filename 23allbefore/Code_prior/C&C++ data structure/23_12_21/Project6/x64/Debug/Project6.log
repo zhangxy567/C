@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Code_Project\C&C++ data structure\23_12_21\Project6\源.c(9,21): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Code_Project\C&C++ data structure\23_12_21\Project6\源.c(9,46): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+C:\Code_Project\C&C++ data structure\23_12_21\Project6\源.c(10,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Code_Project\C&C++ data structure\23_12_21\Project6\源.c(12,3): warning C4013: “free”未定义；假设外部返回 int
+  Project6.vcxproj -> C:\Code_Project\C&C++ data structure\23_12_21\Project6\x64\Debug\Project6.exe

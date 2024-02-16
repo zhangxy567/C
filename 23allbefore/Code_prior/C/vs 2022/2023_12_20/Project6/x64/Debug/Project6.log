@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Code_Project\C\2023_12_20\Project6\源.c(10,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Code_Project\C\2023_12_20\Project6\源.c(11,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  Project6.vcxproj -> C:\Code_Project\C\2023_12_20\Project6\x64\Debug\Project6.exe

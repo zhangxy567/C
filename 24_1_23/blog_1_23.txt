@@ -1,0 +1,145 @@
+C语言中的分支和循环语句
+C语言是一种广泛用于系统编程和应用程序开发的高级编程语言，具有强大的灵活性和高效性。分支和循环语句是C语言中两个关键的控制结构，它们使得程序能够根据不同的条件执行不同的代码块，以及在特定条件下反复执行一组语句。让我们深入了解这两种重要的控制结构。
+
+分支语句（if-else语句）
+分支语句是一种允许程序根据条件选择性地执行不同代码块的结构。在C语言中，最常见的分支语句是if-else语句。
+
+c
+Copy code
+if (condition) {
+    // 在条件为真时执行的代码块
+} else {
+    // 在条件为假时执行的代码块
+}
+if-else语句根据括号中的条件判断执行哪个代码块。如果条件为真，执行if后面的代码块；如果条件为假，执行else后面的代码块。
+
+c
+Copy code
+#include <stdio.h>
+
+int main() {
+    int x = 10;
+
+    if (x > 5) {
+        printf("x大于5\n");
+    } else {
+        printf("x不大于5\n");
+    }
+
+    return 0;
+}
+多重分支语句（switch语句）
+除了if-else语句，C语言还提供了switch语句，用于处理多个可能的情况。
+
+c
+Copy code
+switch (expression) {
+    case constant1:
+        // 当expression等于constant1时执行的代码
+        break;
+    case constant2:
+        // 当expression等于constant2时执行的代码
+        break;
+    // 其他case语句
+    default:
+        // 当expression不匹配任何常量时执行的代码
+}
+switch语句根据expression的值选择执行哪个case分支。如果没有一个case匹配，将执行default分支（可选）。
+
+c
+Copy code
+#include <stdio.h>
+
+int main() {
+    int day = 3;
+
+    switch (day) {
+        case 1:
+            printf("星期一\n");
+            break;
+        case 2:
+            printf("星期二\n");
+            break;
+        case 3:
+            printf("星期三\n");
+            break;
+        default:
+            printf("其他天\n");
+    }
+
+    return 0;
+}
+循环语句
+循环语句允许程序在满足特定条件的情况下重复执行一组语句。C语言提供了三种常见的循环结构：for循环、while循环和do-while循环。
+
+for循环
+for循环是最常用的循环语句之一，用于在指定的条件下多次执行一个代码块。
+
+c
+Copy code
+for (initialization; condition; update) {
+    // 在条件为真时重复执行的代码块
+}
+for循环有三部分：初始化（在循环开始前执行一次）、条件（在每次循环迭代前检查）、更新（在每次循环迭代后执行）。
+
+c
+Copy code
+#include <stdio.h>
+
+int main() {
+    for (int i = 0; i < 5; i++) {
+        printf("%d ", i);
+    }
+
+    return 0;
+}
+while循环
+while循环在满足条件时重复执行一个代码块。
+
+c
+Copy code
+while (condition) {
+    // 在条件为真时重复执行的代码块
+}
+while循环在每次迭代前检查条件，如果条件为真，则执行循环体。
+
+c
+Copy code
+#include <stdio.h>
+
+int main() {
+    int i = 0;
+
+    while (i < 5) {
+        printf("%d ", i);
+        i++;
+    }
+
+    return 0;
+}
+do-while循环
+do-while循环先执行一次循环体，然后在满足条件时重复执行。
+
+c
+Copy code
+do {
+    // 重复执行的代码块
+} while (condition);
+do-while循环保证至少执行一次循环体，因为条件在循环体执行后检查。
+
+c
+Copy code
+#include <stdio.h>
+
+int main() {
+    int i = 0;
+
+    do {
+        printf("%d ", i);
+        i++;
+    } while (i < 5);
+
+    return 0;
+}
+总结
+分支和循环语句是C语言中控制程序流程的重要工具。if-else语句用于根据条件选择性地执行代码，switch语句处理多个可能的情况。而循环语句，包括for循环、while循环和do-while循环，使得程序能够根据条件反复执行一组语句。这些控制结构的巧妙组合，使得C语言能够处理各种复杂的逻辑和算法，成为一门强大而灵活的编程语言。

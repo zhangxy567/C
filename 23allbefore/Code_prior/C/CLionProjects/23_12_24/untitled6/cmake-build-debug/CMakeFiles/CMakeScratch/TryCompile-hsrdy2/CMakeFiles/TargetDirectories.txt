@@ -1,0 +1,3 @@
+C:/Code_Project/C/CLionProjects/23_12_24/untitled6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hsrdy2/CMakeFiles/cmTC_b3470.dir
+C:/Code_Project/C/CLionProjects/23_12_24/untitled6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hsrdy2/CMakeFiles/edit_cache.dir
+C:/Code_Project/C/CLionProjects/23_12_24/untitled6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-hsrdy2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Code_Project\C\2023.11.17\Project3\main.cpp(117,16): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Code_Project\C\2023.11.17\Project3\main.cpp(156,19): error C2440: “初始化”: 无法从“const char [14]”转换为“char *”
+C:\Code_Project\C\2023.11.17\Project3\main.cpp(156,19): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
