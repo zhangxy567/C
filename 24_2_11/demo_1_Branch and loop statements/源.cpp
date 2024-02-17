@@ -89,7 +89,7 @@ CÓïÑÔÖÐµÄÂß¼­»ò || ±íÊ¾µÄÊÇÔÚ¶à¸öÌõ¼þÖÐ£¬Ö»ÒªÓÐÒ»¸öÌõ¼þÎªÕæ£¬Õû¸ö±í´ïÊ½¾ÍÎªÕæ¡£Õ
 //
 
 
-int a;
+
 
 int main()
 {
@@ -178,8 +178,13 @@ int main()
 	//if(!flag) printf("do.....");
 	//
 	//printf("%d", a);
-	int m;
-	scanf("%[1]d", &m);
-	if (m >= 3 && m <= 5) printf("´ºÌì\n");
+	//int m;
+	//scanf("%[1]d", &m);
+	//if (m >= 3 && m <= 5) printf("´ºÌì\n");
+
+	int a=0;
+	scanf("%d", &a);
+	if (a == 12 || a == 1 || a == 2) printf("¶¬¼¾");
+	else printf("²»ÊÇ¶¬¼¾");
 	return 0;
 }
