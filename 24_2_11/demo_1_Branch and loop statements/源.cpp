@@ -156,6 +156,12 @@ using namespace std;
 //
 // 
 // 
+// break和continue语句,循环执行时,遇到某种情况,需要提前终止或者跳过
+// break:break语句是永久终止循环,只要break被执行,就会跳出循环,执行循环外后续代码
+// continue: continue作用是跳过本次循环continue后面的代码,进入下一个循环,   在for和while循环里有差异
+// 
+// 
+// 
 // 
 // 
 //
@@ -419,7 +425,7 @@ int main()
 	//	printf("%d\n", i);
 	//	i++;
 	//}
-
+//
 	//输入一个正的整数,逆序打印这个整数的每一位
 	//int integer = 0;
 	//scanf("%d", &integer);
@@ -429,18 +435,18 @@ int main()
 	//	integer /=  10;
 	//}
 	//使用for循环打印1-10的数
-
+//
  //   int a = 0;
 	//for (a = 1; a <= 10; a++)
 	//{
 	//	printf("%d ", a);
 	//}
-
+//
 //计算1-100之间三的倍数之和
 //版本1
 	//int sum = 0, i = 1;
-
-
+//
+//
 	//for (i = 3; i <= 100; i += 3)
 	//{
 	//	sum = sum + i;
@@ -455,16 +461,45 @@ int main()
 	//	if (i % 3 == 0)
 	//		sum += i;
 	//}
-
+//
 	//printf("%d", sum);
-	
-	
-	int i = 1;
+	//
+
+/*	int i=1;
 	do
 	{
-		printf("%d ", i);
+		printf("%d", i);
 		i++;
-	} while (i <= 10);
+	} while (i <= 10);*///这个分号至关重要不可缺少  ,即 do while语句末尾即while后面不可缺少"；"
+//输入一个正整数,计算这个正整数位数
+	
+	//int n = 0,num=0;
+	//scanf("%d", &n);
 
+	//do
+	//{
+	//	n /= 10;
+	//	num++;
+	//} while (n);
+	//printf("所输入数值的位数是%d", num);
+
+
+
+//break和continue语句代码练习
+	//int i = 1;
+	//	while (i <= 10)
+	//	{
+	//		if (i == 5) break;
+	//		printf("%d\n", i);
+	//		i++;
+	//	}
+	int i = 1;
+	while (i <= 10)
+	{
+		if (i == 5) 
+			continue;
+		printf("%d\n", i);
+		i++;
+	}
 	return 0;
 }
