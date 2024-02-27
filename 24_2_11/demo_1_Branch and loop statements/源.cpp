@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 //C语言是一门结构化语言,三种结构:顺序结构,选择结构,循环结构
-
+//!!!!!!!如果一个程序员想写Bug,谁也拦不住他,哈哈哈哈哈哈哈哈哈
 
 //C语言的逻辑判断:     表达式,如果是 0 ,则为假,   如果是  非0, 则为真 
 // 
@@ -156,9 +156,18 @@ using namespace std;
 //
 // 
 // 
-// break和continue语句,循环执行时,遇到某种情况,需要提前终止或者跳过
-// break:break语句是永久终止循环,只要break被执行,就会跳出循环,执行循环外后续代码
-// continue: continue作用是跳过本次循环continue后面的代码,进入下一个循环,   在for和while循环里有差异
+// break和continue语句,(循环执行时,遇到某种情况,需要提前终止或者跳过)
+// break:break语句是永久终止循环,只要break被执行,就会跳出循环,执行循环外后续代码(while和for循环里没有区别)
+// continue: continue作用是跳过本次循环continue后面的代码,进入下一个循环,   
+// 在for和while循环里有差异
+//		 (1) while中的执行continue语句是直接跳过continue后面语句,然后直接进入下一个循环,
+//			 即立刻从头进入while判断,然后可能继续进行下一个循环
+//		 (2) for中的执行continue语句也是直接跳过continue后面语句,然后进入调整部分(大多数即为i++)后,进入下一个循环,
+//			 即立刻从头进入中间判断,然后可能继续进行下一个循环 
+// continue在不for语句和while语句中不同的原因就是因为for的结构是严谨的,整齐的,它的初始化,判断,调整语句不和目的循环语句重合;所以continue
+// 在for中不是直接跳到判断部分,而是先跳到调整部分后,再进入下一循环,也就是说while循环中continue可能跳过调整部分,而导致死循环
+// 同样do while中也是直接跳到while部分,和while一样
+// 
 // 
 // 
 // 
@@ -415,8 +424,8 @@ int main()
 	//case 7:printf("休息日"); break;
 	//
 	//}
-	
-
+//	
+//
 //循环
 //在屏幕上打印1-10的值
 	//int i = 1;
@@ -464,18 +473,18 @@ int main()
 //
 	//printf("%d", sum);
 	//
-
-/*	int i=1;
-	do
-	{
-		printf("%d", i);
-		i++;
-	} while (i <= 10);*///这个分号至关重要不可缺少  ,即 do while语句末尾即while后面不可缺少"；"
+//
+//	int i=1;
+//	do
+//	{
+//		printf("%d", i);
+//		i++;
+//	} while (i <= 10);*///这个分号至关重要不可缺少  ,即 do while语句末尾即while后面不可缺少"；"
 //输入一个正整数,计算这个正整数位数
-	
+//	
 	//int n = 0,num=0;
 	//scanf("%d", &n);
-
+//
 	//do
 	//{
 	//	n /= 10;
@@ -486,6 +495,7 @@ int main()
 
 
 //break和continue语句代码练习
+// while:
 	//int i = 1;
 	//	while (i <= 10)
 	//	{
@@ -493,13 +503,58 @@ int main()
 	//		printf("%d\n", i);
 	//		i++;
 	//	}
+	//int i = 1;
+	//while (i <= 10)
+	//{
+	//	if (i == 5) 
+	//		continue;
+	//	printf("%d\n", i);
+	//	i++;
+	//}
+//
+	//int a = 1;
+	//while (a <= 10)
+	//{
+	//	if (a == 5) break;
+	//	printf("%d ", a);
+	//	a++;
+	//}
+	//int a = 1;
+	//while (a <= 10)
+	//{
+	//	if (a == 5) continue;
+	//	printf("%d ", a);
+	//	a++;
+	//}
+	//int a = 1;
+	//while (a <= 10)
+	//{
+	//	a++;
+	//	if (a == 5) continue;
+	//	printf("%d ", a);
+	//	
+	//}
+//for
+	//int i = 1;
+	//
+	//for (i = 1; i <= 10; i++)
+	//{
+	//	if (i == 5) break;
+	//	printf("%d ", i);
+	//}
+	//int i = 1;
+
+	//for (i = 1; i <= 10; i++)
+	//{
+	//	if (i == 5) break;
+	//	printf("%d ", i);
+	//}
 	int i = 1;
-	while (i <= 10)
+
+	for (i = 1; i <= 10; i++)
 	{
-		if (i == 5) 
-			continue;
-		printf("%d\n", i);
-		i++;
+		if (i == 5) continue;
+		printf("%d ", i);
 	}
 	return 0;
 }
