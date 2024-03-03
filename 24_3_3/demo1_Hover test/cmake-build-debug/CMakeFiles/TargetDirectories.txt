@@ -1,0 +1,3 @@
+C:/CodeBase/C/24_3_3/demo1_Hover test/cmake-build-debug/CMakeFiles/demo1_Hover_test.dir
+C:/CodeBase/C/24_3_3/demo1_Hover test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeBase/C/24_3_3/demo1_Hover test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

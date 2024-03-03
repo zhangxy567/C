@@ -1,0 +1,3 @@
+C:/CodeBase/C/24_3_3/demo4_default/cmake-build-debug/CMakeFiles/demo4_default.dir
+C:/CodeBase/C/24_3_3/demo4_default/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeBase/C/24_3_3/demo4_default/cmake-build-debug/CMakeFiles/rebuild_cache.dir
