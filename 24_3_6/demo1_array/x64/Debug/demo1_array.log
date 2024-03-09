@@ -1,2 +1,4 @@
 ﻿  源.cpp
+C:\CodeBase\C\24_3_6\demo1_array\源.cpp(106,11): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+C:\CodeBase\C\24_3_6\demo1_array\源.cpp(106,11): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "int *" 的参数 1 冲突
   demo1_array.vcxproj -> C:\CodeBase\C\24_3_6\demo1_array\x64\Debug\demo1_array.exe
