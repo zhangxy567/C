@@ -59,6 +59,39 @@ using namespace std;
 // 
 // 嵌套调用和链式访问:
 // 嵌套调用就是函数之间的互相调用
+// 链式访问就是把函数的返回值直接作为其他函数的参数
+// 
+// 
+// 函数的声明和定义:
+// 一 单个文件
+// (1) C语言中代码的编译是自上而下的
+//     为了把自定义函数放在main函数的后面,可以在main函数的上方先进行声明
+// (2) 函数的定义是一种特殊的声明
+// (3) 声明格式:
+//              函数自定义部分去掉函数体   +     ";"                 //注意这个分号必不可少
+//              声明函数只要交代清楚：函数名，函数的返回类型和函数的参数
+//              同时,函数声明里,函数形参可以保留类型而去掉具体形参.    如:   int is_leep_year(int);  也是对的
+// 
+// 二 多个文件
+// 一般企业中,我们写代码,把函数的声明,类型的声明放在头文件(.h)中,函数的实现是放在源文件(.c)中
+// 当函数实现放在(.c)文件中,函数声明放在(.h)文件中,此时只需要把自定义的头文件和库函数的头文件一样#define一下就可以使用
+// 但是有不同的地方在于 对于内置头文件,我们采用 #include<name.h>,而对于自定义的头文件,只能用#include ".h"的形式引用
+// 
+// 
+// 
+// static和extern关键字
+// 1.
+// static是静态的意思,可以用来
+// (1) 修饰局部变量
+// (2) 修饰全局变量
+// (3) 修饰函数
+// extern是用来声明外部符号的
+// 
+// 
+// 
+// 
+// 
+// 
 // 
 // 
 // 
@@ -131,28 +164,8 @@ using namespace std;
 //}
 
 //计算某年某月有多少天
-int is_leep_year(int year)
-{
-	if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
-		return 1;
-	else
-		return 0;
-}
-
-int get_day_num(int year,int month) 
-{
-	int key=0;
-	int days[] = { 0,31,28,31,30,31,30,31,31,30,31,30,31 };
-	int days_res = days[month];
-	
-	key = is_leep_year(year);
-	if (key&& month==2)
-	{
-		days_res += 1;
-	}
-	
-	return days_res;
-}
+int is_leep_year(int);
+int get_day_num(int, int );
 
 int main()
 {
@@ -166,4 +179,28 @@ int main()
 
 	printf("%d年%d月的天数为:  %d", year, month,daynum);
 
+}
+
+int is_leep_year(int year)
+{
+	if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+		return 1;
+	else
+		return 0;
+}
+
+
+int get_day_num(int year, int month)
+{
+	int key = 0;
+	int days[] = { 0,31,28,31,30,31,30,31,31,30,31,30,31 };
+	int days_res = days[month];
+
+	key = is_leep_year(year);
+	if (key && month == 2)
+	{
+		days_res += 1;
+	}
+
+	return days_res;
 }
